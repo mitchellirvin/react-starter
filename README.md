@@ -1,9 +1,11 @@
-# React Starter 
+# React Starter
 
 ## Running the project
 1. Clone the repository: `git clone https://github.com/mitchellirvin/react-starter.git`
 1. Navigate to root directory: `npm install`
 1. Run the application: `npm start`
+
+## create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
